@@ -2,6 +2,8 @@
 	<img src="../assets/banner.png?raw=true" />
 </div>
 
+---
+
 <h3 align="center">Discord Modifications</h3>
 
 <p align="center">A collection of eternal's discord modifications. This includes addons such as plugins and themes that are compatible with many discord client modifications.</p>
