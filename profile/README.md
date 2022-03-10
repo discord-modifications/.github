@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="../assets/banner.png?raw=true" />
+	<img src="https://github.com/discord-modifications/.github/blob/master/assets/banner.png?raw=true" />
 </div>
 
 ---
