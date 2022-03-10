@@ -17,7 +17,7 @@
 <br />
 
 - **Q: One of the modifications seems to not work, could you fix it?**
-- A: Due to personal time restrains and other events happening, i don't always have time to maintain modifications and sometimes lack the motivation to. If you would like to report an issue with a modification, open a GitHub Issue on the respective repository.
+- A: Due to personal time restrains and other events happening, I don't always have time to maintain modifications and sometimes lack the motivation to. If you would like to report an issue with a modification, open a GitHub Issue on the respective repository.
 
 <br />
 
