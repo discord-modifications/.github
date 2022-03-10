@@ -12,7 +12,7 @@
 
 ### FAQ
 - **Q: Who are these modifications created by?**
-- A: These modifications are developed and maintained by [eternal](https://github.com/eternal404/)
+- A: These modifications are developed and maintained by [eternal](https://github.com/localip/)
 
 <br />
 
