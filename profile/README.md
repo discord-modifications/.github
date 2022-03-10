@@ -22,4 +22,4 @@
 <br />
 
 - **Q: Is there a support server?**
-- A: Yes! However, don't join only to spam ping and beg for fixes. Join [here](https://discord.gg/HQ5N7Rcajc)
+- A: Yes! However, don't join only to spam ping and beg for fixes. You can find the server [here](https://discord.gg/HQ5N7Rcajc).
